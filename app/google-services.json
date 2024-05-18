@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506920193634",
+    "project_id": "one-stop-medical-solution-app",
+    "storage_bucket": "one-stop-medical-solution-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506920193634:android:0a4a9a8734dd9171098b3b",
+        "android_client_info": {
+          "package_name": "com.example.onestopmedicalsolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506920193634-mveo2thgla5r3r8k1h62g2l24fhlt1h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8m_Tj81abdtzPjKEFTGhF-xs7cc5ki3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506920193634-mveo2thgla5r3r8k1h62g2l24fhlt1h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
